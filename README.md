@@ -25,6 +25,19 @@ associated with **functional reserve** — baseline cardiopulmonary exercise cap
 
 ---
 
+## Key Skills Demonstrated
+
+- Clinical Trial Data Analysis
+- Biomarker Discovery
+- Multiple Linear Regression
+- False Discovery Rate (FDR) Correction
+- Reproducible Research in R
+- Statistical Analysis Plan (SAP) Development
+- Clinical Data Cleaning and Validation
+- Publication-Style Statistical Reporting
+
+---
+
 ## Methods
 
 **Sample.** HFrEF participants from the HF-ACTION biomarker substudy. The analytic
