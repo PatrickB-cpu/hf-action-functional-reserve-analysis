@@ -71,6 +71,15 @@ adjusted models.
 with peak VO₂ were predominantly inverse.
 
 ---
+## Results Snapshot
+
+- 32 baseline biomarkers evaluated
+- 263 participants included in adjusted analyses
+- 13 biomarkers met predefined robustness criteria
+- Associations with functional reserve were predominantly inverse
+- Findings were consistent across all four model specifications
+
+---
 
 ## Planned extensions
 
