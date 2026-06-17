@@ -38,6 +38,20 @@ associated with **functional reserve** — baseline cardiopulmonary exercise cap
 
 ---
 
+HF-ACTION Trial Data
+          ↓
+ Data Cleaning
+          ↓
+ Biomarker Screening
+          ↓
+ Four-Model Framework
+          ↓
+ FDR Correction
+          ↓
+ Robust Biomarker Identification
+
+ ---
+
 ## Methods
 
 **Sample.** HFrEF participants from the HF-ACTION biomarker substudy. The analytic
