@@ -16,11 +16,11 @@ Biostatistics & Bioinformatics at Duke University.
 ## Overview
 
 This project evaluates whether a panel of **32 baseline protein biomarkers** is
-associated with **functional reserve** — baseline cardiopulmonary exercise capacity
-(peak VO₂) — in HFrEF, using a prespecified four-model robustness framework.
+associated with **functional reserve** baseline cardiopulmonary exercise capacity
+(peak VO₂) in HFrEF, using a prespecified four-model robustness framework.
 
 > **Scope:** This repository covers the completed analysis of functional reserve.
-> Two extensions were scoped but are outside the delivered work — see
+> Two extensions were scoped but are outside the delivered work see
 > [Planned extensions](#planned-extensions).
 
 ---
@@ -65,7 +65,7 @@ sample for regression models is *n* = 263 (from *n* = 300 with biomarker data;
 exclusions driven primarily by missing covariate data). The correlation structure is
 described on the full biomarker-complete cohort (*n* = 300).
 
-**Aim 1 — functional reserve.** Each z-scored biomarker is related to peak VO₂ under a
+**Aim 1 : functional reserve.** Each z-scored biomarker is related to peak VO₂ under a
 prespecified four-model framework crossing adjustment (unadjusted vs. adjusted for
 sex, BMI, BUN, and KCCQ symptom burden) with outcome scale (original vs.
 log-transformed). Multiplicity is controlled with the Benjamini–Hochberg procedure
@@ -92,9 +92,9 @@ with peak VO₂ were predominantly inverse.
 The functional reserve analysis was designed to support two further directions, which
 are **not part of this repository's completed work**:
 
-- **Functional recovery** — predicting change in peak VO₂ at 3 months from baseline
+- **Functional recovery**  Predicting change in peak VO₂ at 3 months from baseline
   biomarkers using LASSO penalized regression.
-- **Functional resilience** — a residual-based analysis testing whether biomarkers add
+- **Functional resilience** A residual-based analysis testing whether biomarkers add
   predictive value beyond clinical measures.
 
 These are noted to document the project's intended scope, not as delivered results.
