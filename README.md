@@ -39,26 +39,22 @@ associated with **functional reserve** — baseline cardiopulmonary exercise cap
 ---
 ## Analysis Workflow
 
-```text
-HF-ACTION Trial Data
-        │
-        ▼
-Data Cleaning & Validation
-        │
-        ▼
-Biomarker Screening
-        │
-        ▼
-Four-Model Regression Framework
-        │
-        ▼
-FDR Correction (Benjamini-Hochberg)
-        │
-        ▼
-Robust Biomarker Identification
-        │
-        ▼
-Clinical Interpretation
+```mermaid
+flowchart TD
+    A[HF-ACTION Trial Data]
+    B[Data Cleaning & Validation]
+    C[Biomarker Screening]
+    D[Four-Model Regression Framework]
+    E[FDR Correction]
+    F[Robust Biomarker Identification]
+    G[Clinical Interpretation]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
 ```
  ---
 
